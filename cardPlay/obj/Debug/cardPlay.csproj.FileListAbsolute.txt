@@ -1,0 +1,30 @@
+C:\Users\Administrator\source\repos\cardPlay\cardPlay\bin\Debug\cardPlay.exe.config
+C:\Users\Administrator\source\repos\cardPlay\cardPlay\bin\Debug\cardPlay.exe
+C:\Users\Administrator\source\repos\cardPlay\cardPlay\bin\Debug\cardPlay.pdb
+C:\Users\Administrator\source\repos\cardPlay\cardPlay\obj\Debug\cardPlay.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\cardPlay\cardPlay\obj\Debug\cardPlay.Form1.resources
+C:\Users\Administrator\source\repos\cardPlay\cardPlay\obj\Debug\cardPlay.Properties.Resources.resources
+C:\Users\Administrator\source\repos\cardPlay\cardPlay\obj\Debug\cardPlay.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\cardPlay\cardPlay\obj\Debug\cardPlay.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\cardPlay\cardPlay\obj\Debug\cardPlay.exe
+C:\Users\Administrator\source\repos\cardPlay\cardPlay\obj\Debug\cardPlay.pdb
+C:\Users\Administrator\Desktop\card game\cardPlay\cardPlay\bin\Debug\cardPlay.exe.config
+C:\Users\Administrator\Desktop\card game\cardPlay\cardPlay\bin\Debug\cardPlay.exe
+C:\Users\Administrator\Desktop\card game\cardPlay\cardPlay\bin\Debug\cardPlay.pdb
+C:\Users\Administrator\Desktop\card game\cardPlay\cardPlay\obj\Debug\cardPlay.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\card game\cardPlay\cardPlay\obj\Debug\cardPlay.Form1.resources
+C:\Users\Administrator\Desktop\card game\cardPlay\cardPlay\obj\Debug\cardPlay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\card game\cardPlay\cardPlay\obj\Debug\cardPlay.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\card game\cardPlay\cardPlay\obj\Debug\cardPlay.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\card game\cardPlay\cardPlay\obj\Debug\cardPlay.exe
+C:\Users\Administrator\Desktop\card game\cardPlay\cardPlay\obj\Debug\cardPlay.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\card game\cardPlay\cardPlay\bin\Debug\cardPlay.exe.config
+C:\Users\Administrator\Desktop\New folder\New folder\card game\cardPlay\cardPlay\bin\Debug\cardPlay.exe
+C:\Users\Administrator\Desktop\New folder\New folder\card game\cardPlay\cardPlay\bin\Debug\cardPlay.pdb
+C:\Users\Administrator\Desktop\New folder\New folder\card game\cardPlay\cardPlay\obj\Debug\cardPlay.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\New folder\New folder\card game\cardPlay\cardPlay\obj\Debug\cardPlay.Form1.resources
+C:\Users\Administrator\Desktop\New folder\New folder\card game\cardPlay\cardPlay\obj\Debug\cardPlay.Properties.Resources.resources
+C:\Users\Administrator\Desktop\New folder\New folder\card game\cardPlay\cardPlay\obj\Debug\cardPlay.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\New folder\New folder\card game\cardPlay\cardPlay\obj\Debug\cardPlay.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\New folder\New folder\card game\cardPlay\cardPlay\obj\Debug\cardPlay.exe
+C:\Users\Administrator\Desktop\New folder\New folder\card game\cardPlay\cardPlay\obj\Debug\cardPlay.pdb
