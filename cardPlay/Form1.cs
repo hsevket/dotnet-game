@@ -43,7 +43,7 @@ namespace cardPlay
         {
             string fullCurrentDirectory = Directory.GetCurrentDirectory();
             string trimmedDirectoryPath = fullCurrentDirectory.Replace(@"\", "/");
-            return trimmedDirectoryPath.Substring(0, fullCurrentDirectory.Length - 27);
+            return trimmedDirectoryPath;
 
         }
 
@@ -69,9 +69,9 @@ namespace cardPlay
                 pict.BorderStyle = BorderStyle.Fixed3D;
                 while (list.Contains(rand))
                     rand = rdm.Next(1, 11);
-                pict.BackgroundImage = Image.FromFile($"{currentDirectory}images/{rand}.jpg");
+                pict.BackgroundImage = Image.FromFile($"{currentDirectory}/images/{rand}.jpg");
                 pict.BackgroundImageLayout = ImageLayout.Stretch;
-                pict.Image = Image.FromFile($"{currentDirectory}images/background.jpg");
+                pict.Image = Image.FromFile($"{currentDirectory}/images/background.jpg");
                 pict.SizeMode = PictureBoxSizeMode.StretchImage;
                 pict.Tag = new { tag = rand };
 
@@ -142,9 +142,9 @@ namespace cardPlay
         {
             string currentDirectory = getDirectoryPath();
             foreach (PictureBox item in flwPictures.Controls)
-                item.Image = Image.FromFile($"{currentDirectory}images/background.jpg"); ;
+                item.Image = Image.FromFile($"{currentDirectory}/images/background.jpg"); ;
             foreach (PictureBox item2 in flwPictures2.Controls)
-                item2.Image = Image.FromFile($"{currentDirectory}images/background.jpg"); ;
+                item2.Image = Image.FromFile($"{currentDirectory}/images/background.jpg"); ;
 
         }
         public void levelUp()
@@ -264,8 +264,8 @@ namespace cardPlay
             string currentDirectory = getDirectoryPath();
             if(clicked != null && clicked2 != null)
             {
-                clicked.Image = Image.FromFile($"{currentDirectory}images/background.jpg");
-                clicked2.Image = Image.FromFile($"{currentDirectory}images/background.jpg");
+                clicked.Image = Image.FromFile($"{currentDirectory}/images/background.jpg");
+                clicked2.Image = Image.FromFile($"{currentDirectory}/images/background.jpg");
             }
             
             showImage1 = false;
